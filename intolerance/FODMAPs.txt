@@ -1,0 +1,4 @@
+FODMAPs adalah singkatan dari fermentable oligo-, di-, mono-saccharides and polyols.
+Mereka adalah sekelompok karbohidrat rantai pendek yang ditemukan secara alami di banyak makanan yang dapat menyebabkan gangguan pencernaan.
+FODMAP diserap dengan buruk di usus kecil dan berjalan ke usus besar, di mana mereka digunakan sebagai bahan bakar untuk bakteri usus di sana.
+Bakteri memecah atau "memfermentasi" FODMAP, yang menghasilkan gas dan menyebabkan kembung dan ketidaknyamanan.
